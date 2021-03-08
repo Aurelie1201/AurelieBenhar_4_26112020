@@ -361,8 +361,16 @@ a:hover {
     position: relative;
     z-index: 2;
 }
+
 .titre{
     font-size:x-large;
+    margin-bottom: 50px;
+}
+
+h2{
+    text-align: center;
+    font-size: 1.7em;
+    margin-bottom: 30px;
 }
 
 @media (min-width: 768px) {

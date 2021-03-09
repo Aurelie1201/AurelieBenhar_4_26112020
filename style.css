@@ -373,6 +373,15 @@ h2{
     margin-bottom: 30px;
 }
 
+.t-text{
+    font-size: 1.3em;
+    margin-left: 20px;
+}
+
+.t-center{
+    text-align: center;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;

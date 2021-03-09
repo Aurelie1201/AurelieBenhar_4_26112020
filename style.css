@@ -382,6 +382,14 @@ h2{
     text-align: center;
 }
 
+em{
+    font-size: 1.3em;
+}
+
+.citation{
+    font-size: 1.1em;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;

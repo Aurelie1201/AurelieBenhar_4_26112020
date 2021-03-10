@@ -390,6 +390,25 @@ em{
     font-size: 1.1em;
 }
 
+.barre{
+    display: flex;
+    justify-content: space-between;
+}
+
+.acc{
+    padding-right: 15px;
+    padding-top: 20px;
+}
+
+@media (max-width: 400px){
+    .barre{
+        flex-direction: column;
+    }
+    .acc{
+        padding: 0px 0px 25px 10px;
+    }
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;

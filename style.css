@@ -833,7 +833,11 @@ h4 {
 }
 
 .tc-black{
-    color: black
+    color: black;
+    font-weight: 700;
+    background-color: rgb(243, 151, 108, 0.3);
+    width: 50%;
+    margin: 0 auto;
 }
 
 .btn-atomic-tangerine {
